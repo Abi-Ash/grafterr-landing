@@ -1,6 +1,6 @@
 # Grafterr Landing Page
 
-This project is a responsive landing page built as part of a frontend technical assessment. The goal was to replicate the provided design and implement dynamic content loading using Vanilla JavaScript.
+This project is a responsive landing page built as part of a frontend technical assessment. The goal was to replicate the provided design and implement dynamic content loading using Vanilla JavaScript from JSON.
 
 ## Tech Stack
 
