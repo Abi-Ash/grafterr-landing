@@ -95,4 +95,22 @@ ${cardsHTML}
 
  `;
 
+const track = container.querySelector(".carousel-track");
+const prev = container.querySelector(".prev");
+const next = container.querySelector(".next");
+
+next.addEventListener("click", () => {
+  track.scrollBy({
+    left: track.offsetWidth,
+    behavior: "smooth"
+  });
+});
+
+prev.addEventListener("click", () => {
+  track.scrollBy({
+    left: -track.offsetWidth,
+    behavior: "smooth"
+  });
+});
+
 }
