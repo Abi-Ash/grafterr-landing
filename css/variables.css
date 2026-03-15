@@ -1,0 +1,12 @@
+:root{
+
+--primary-gradient: linear-gradient(90deg,#3B82F6,#ecaf65);
+
+--text-dark:#111;
+--text-light:#666;
+
+--container-width:1200px;
+
+--radius:12px;
+
+}

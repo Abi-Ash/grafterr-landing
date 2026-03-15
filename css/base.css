@@ -1,0 +1,16 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+font-family:'Inter',sans-serif;
+color:var(--text-dark);
+}
+
+.container{
+max-width:var(--container-width);
+margin:auto;
+padding:40px 20px;
+}
